@@ -1,0 +1,29 @@
+Added Component: Designator=U4(SOIC127P1032X265-20N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L293DD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-20 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L293DD/STMicroelectronics/view-part/585585/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO12 Pin=U4-1
+Added Pin To Net: NetName=GPIO3 Pin=U4-2
+Added Pin To Net: NetName=OUT_1_MOTOR Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=OUT_2_MOTOR Pin=U4-8
+Added Pin To Net: NetName=GPIO4 Pin=U4-9
+Added Pin To Net: NetName=+12 Pin=U4-10
+Added Pin To Net: NetName=GPIO13 Pin=U4-11
+Added Pin To Net: NetName=GPIO5 Pin=U4-12
+Added Pin To Net: NetName=OUT_3_MOTOR Pin=U4-13
+Added Pin To Net: NetName=GND Pin=U4-14
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U4-16
+Added Pin To Net: NetName=GND Pin=U4-17
+Added Pin To Net: NetName=OUT_4_MOTOR Pin=U4-18
+Added Pin To Net: NetName=GPIO6 Pin=U4-19
+Added Pin To Net: NetName=+VCC FTDI Pin=U4-20
+Added Member To Class: ClassName=Sheet1 Member=Component U4 L293DD
